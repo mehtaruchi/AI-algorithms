@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565753295 source:c:\users\ruchi\desktop\my data structure programs\intelligent tic tac toe\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stddef.h>
+
+1565756562 source:c:\users\ruchi\desktop\third year\ai\ai lab\1. intelligent tic tac toe\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<stddef.h>
+

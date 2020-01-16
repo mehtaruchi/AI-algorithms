@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566965551 source:c:\users\ruchi\desktop\my data structure programs\hillclimbingai\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1570939453 source:c:\users\ruchi\desktop\third year\ai\ai lab\3. hillclimbingai\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

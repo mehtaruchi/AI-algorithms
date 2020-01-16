@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570939946 source:c:\users\ruchi\desktop\third year\ai\ai lab\4. beamsearch\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<list>
+	<map>
+
